@@ -1,0 +1,163 @@
+body{
+    margin:0px;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    font-size: 1em;
+    color: rgb(101, 97, 97);
+}
+
+.top_conteiner{
+    background-color: #E4F9F5;
+    padding: 10px;
+
+    
+}
+img{
+    mix-blend-mode: multiply;
+}
+
+#top-image{
+    position: relative;
+    top: 50px;
+    left: 300px;
+}
+#midle-image{
+    position: relative;
+    bottom: 100px;
+    right: 150px;
+}
+
+#bottom-image{
+    position: relative;
+    right: 150px;
+    top: 45px;
+}
+.top_conteiner h2{
+    font-family: 'Sacramento' cursive;
+}
+
+h1{
+    color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+}
+h4{
+    color: #66BFBF;  
+}
+#nan{
+    color: #66BFBF;
+    font-family: "Sacramento", cursive;
+    font-size: 562.25%;
+    line-height: 0;
+}
+#man{
+    color: #66BFBF;
+    font-family: "Montserrat", sans-serif;
+    font-size: 32px;
+
+}
+span{
+    text-decoration: underline;
+}
+
+.profiles img{
+    height: 200px;
+    width: 200px;
+}
+#mom{
+    width: 20px;
+    height: 20px;
+}
+
+
+
+
+.skills{
+    width: 50%;
+    margin: 50px auto 0 auto;
+}
+.skill-image{
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+}
+p{
+    line-height: 2rem;
+    font-size: 0.85em;
+}
+
+.hot{
+    width: 50%;
+    margin: 100px auto 50px auto;
+}
+
+.hot-image{
+    width: 25%;
+    float: right;
+    margin-left: 20px;
+}
+.p-descript{
+    width: 38%;
+    margin: 0 auto 50px auto;
+}
+.btn{
+    border: solid 1px ;
+    display: inline-block;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: #11CDD4;
+    color: whitesmoke;
+    font-family: "Merriweather", serif;
+    margin: 0 0 80px 0;
+}
+.btn:hover{
+    color: #30E3CB;
+    cursor: pointer;
+}
+
+.anchor{
+    background-color: #66BFBF;
+    height: 100px;
+    padding: 50px;
+}
+a{
+    color: #11999E;
+    text-decoration: none;
+    padding: 50px;
+}
+a:visited{
+    color: #11999E;
+}
+
+a:hover{
+    color: whitesmoke;
+}
+
+
+.copy{
+    font-size: 0.75rem;
+    color: whitesmoke;
+    padding: 25px;
+}
+.profiles{
+    width: 50%;
+    margin: 0 auto 0 auto;
+}
+.midle_conteiner p{
+width: 51%;
+margin: 0 auto 50px auto;
+}
+
+.profile-image{
+    padding: 50px 0 0 0;
+}
+hr{
+    border: dotted 5px lightgray;
+    width: 50px;
+    border-bottom: none;
+}
+
+.bottom_conteiner{
+    margin: 50px 0 0 0;
+}
